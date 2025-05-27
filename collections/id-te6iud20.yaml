@@ -1,0 +1,38 @@
+identifier:
+  name: product
+  key: te6iud20
+fields:
+  name:
+    identifier:
+      name: name
+    dataType:
+      scalarType: String
+  info:
+    identifier:
+      name: info
+    dataType:
+      scalarType: String
+  price:
+    identifier:
+      name: price
+    dataType:
+      scalarType: Double
+  image:
+    identifier:
+      name: image
+    dataType:
+      scalarType: ImagePath
+  brand:
+    identifier:
+      name: brand
+    dataType:
+      scalarType: DocumentReference
+      subType:
+        collectionIdentifier:
+          name: brand
+          key: hnd2mrig
+  brand_name:
+    identifier:
+      name: brand_name
+    dataType:
+      scalarType: String

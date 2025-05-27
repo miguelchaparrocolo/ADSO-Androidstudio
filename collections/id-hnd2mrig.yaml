@@ -1,0 +1,9 @@
+identifier:
+  name: brand
+  key: hnd2mrig
+fields:
+  name:
+    identifier:
+      name: name
+    dataType:
+      scalarType: String

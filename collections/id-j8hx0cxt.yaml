@@ -1,0 +1,33 @@
+identifier:
+  name: bestsellersproduct
+  key: j8hx0cxt
+fields:
+  name:
+    identifier:
+      name: name
+    dataType:
+      scalarType: String
+  info:
+    identifier:
+      name: info
+    dataType:
+      scalarType: String
+  price:
+    identifier:
+      name: price
+    dataType:
+      scalarType: Double
+  brand:
+    identifier:
+      name: brand
+    dataType:
+      scalarType: DocumentReference
+      subType:
+        collectionIdentifier:
+          name: brand
+          key: hnd2mrig
+  image:
+    identifier:
+      name: image
+    dataType:
+      scalarType: ImagePath
