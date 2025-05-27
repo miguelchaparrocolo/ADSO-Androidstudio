@@ -1,0 +1,14 @@
+name: ADSO APK
+appSettings:
+  advancedSettings:
+    canvasKitSettings: {}
+routingSettings:
+  enableRouting: true
+  pagesAreSubroutesOfRoot: true
+initialPageKeyRef:
+  key: Scaffold_8el0aps6
+allAppNames:
+  appNames:
+    PROD:
+      packageName: com.mycompany.shopapp
+      displayName: ""
