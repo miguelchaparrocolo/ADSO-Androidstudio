@@ -1,0 +1,14 @@
+identifier:
+  name: returncartprice
+  key: 9k4og
+arguments:
+  - identifier:
+      name: value
+      key: z9s4es
+    dataType:
+      scalarType: Double
+      nonNullable: true
+returnParameter:
+  dataType:
+    scalarType: Double
+    nonNullable: true
