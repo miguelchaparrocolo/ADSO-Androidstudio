@@ -1,0 +1,13 @@
+rootFolders:
+  - key: o3xlqe1e
+    name: pages
+  - key: vnc4y9kn
+    name: components
+widgetClassKeyToFolderKey:
+  Scaffold_8el0aps6: o3xlqe1e
+  Scaffold_64zxf27c: o3xlqe1e
+  Scaffold_5jixwwy2: o3xlqe1e
+  Scaffold_uzf3weuq: o3xlqe1e
+  Scaffold_s15ov3nx: o3xlqe1e
+  Scaffold_qli01x2g: o3xlqe1e
+  Container_xhl2ghqn: vnc4y9kn

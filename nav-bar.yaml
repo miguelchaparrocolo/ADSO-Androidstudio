@@ -1,0 +1,13 @@
+show: true
+showSelectedLabels: false
+showUnselectedLabels: false
+backgroundColor:
+  themeColor: PRIMARY
+selectedIconColor:
+  paletteColorName: lineColor
+unselectedIconColor:
+  paletteColorName: noaktive
+navBarType: FLUTTER_NAV_BAR
+googleNavBarSettings: {}
+floatingNavBarSettings: {}
+responsiveVisibility: {}

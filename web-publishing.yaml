@@ -1,0 +1,6 @@
+webSettings:
+  PROD:
+    statusBarColor:
+      value: "4294967295"
+      darkModeColor:
+        value: "4279901988"

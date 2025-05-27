@@ -1,0 +1,257 @@
+loadingIndicatorStyle:
+  type: SK_SQUARECIRCLE
+  color:
+    paletteColorName: lineColor
+  diameter: 35
+customIconFamilys:
+  - familyName: MyFlutterApp
+    iconFilePath: projects/shop-app-gbzhyj/assets/pe762tq4c6tz/MyFlutterApp.ttf
+    icons:
+      - iconName: basket
+        codePoint: 59392
+      - iconName: basket1
+        codePoint: 59393
+      - iconName: basket2
+        codePoint: 59394
+      - iconName: basketCircled
+        codePoint: 59395
+      - iconName: bag
+        codePoint: 59396
+      - iconName: shoppingCart1
+        codePoint: 59397
+      - iconName: cart
+        codePoint: 59438
+      - iconName: shoppingCart
+        codePoint: 61562
+      - iconName: opencart
+        codePoint: 62013
+  - familyName: Menu
+    iconFilePath: projects/shop-app-gbzhyj/assets/7o3nq8d9r867/Menu.ttf
+    icons:
+      - iconName: basket
+        codePoint: 59392
+      - iconName: basket1
+        codePoint: 59393
+      - iconName: basket2
+        codePoint: 59394
+      - iconName: basketCircled
+        codePoint: 59395
+      - iconName: bag
+        codePoint: 59396
+      - iconName: shoppingCart1
+        codePoint: 59397
+      - iconName: article
+        codePoint: 59398
+      - iconName: article1
+        codePoint: 59399
+      - iconName: articleAlt
+        codePoint: 59400
+      - iconName: menu1
+        codePoint: 59401
+      - iconName: menuOutline
+        codePoint: 59402
+      - iconName: menu2
+        codePoint: 59403
+      - iconName: menu4
+        codePoint: 59404
+      - iconName: cart
+        codePoint: 59438
+      - iconName: menuCircle
+        codePoint: 59518
+      - iconName: menu
+        codePoint: 61448
+      - iconName: shoppingCart
+        codePoint: 61562
+      - iconName: menu3
+        codePoint: 61641
+      - iconName: opencart
+        codePoint: 62013
+      - iconName: comment
+        codePoint: 62636
+defaultTypography:
+  primaryFontFamily: Open Sans
+  secondaryFontFamily: Open Sans
+  displaySmall:
+    fontFamily: Open Sans
+    fontSizeValue:
+      inputValue: 24
+      mostRecentInputValue: 24
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  headlineMedium:
+    fontFamily: Open Sans
+    fontSizeValue:
+      inputValue: 22
+      mostRecentInputValue: 22
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+      mostRecentInputValue:
+        themeColor: SECONDARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  headlineSmall:
+    fontFamily: Open Sans
+    fontSizeValue:
+      inputValue: 20
+      mostRecentInputValue: 20
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  titleMedium:
+    fontFamily: Open Sans
+    fontSizeValue:
+      inputValue: 18
+      mostRecentInputValue: 18
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  titleSmall:
+    fontFamily: Open Sans
+    fontSizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+      mostRecentInputValue:
+        themeColor: SECONDARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  bodyMedium:
+    fontFamily: Open Sans
+    fontSizeValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  bodySmall:
+    fontFamily: Open Sans
+    fontSizeValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    colorValue:
+      inputValue:
+        themeColor: SECONDARY_TEXT
+      mostRecentInputValue:
+        themeColor: SECONDARY_TEXT
+    fontWeightValue:
+      inputValue: w600
+  displayLarge:
+    fontFamily: Open Sans
+    fontSizeValue:
+      inputValue: 57
+      mostRecentInputValue: 57
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w400
+  displayMedium:
+    fontFamily: Open Sans
+    fontSizeValue:
+      inputValue: 45
+      mostRecentInputValue: 45
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w400
+  headlineLarge:
+    fontFamily: Open Sans
+    fontSizeValue:
+      inputValue: 32
+      mostRecentInputValue: 32
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w400
+  titleLarge:
+    fontFamily: Open Sans
+    fontSizeValue:
+      inputValue: 22
+      mostRecentInputValue: 22
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w500
+  labelLarge:
+    fontFamily: Open Sans
+    fontSizeValue:
+      inputValue: 14
+      mostRecentInputValue: 14
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w500
+  labelMedium:
+    fontFamily: Open Sans
+    fontSizeValue:
+      inputValue: 12
+      mostRecentInputValue: 12
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w500
+  labelSmall:
+    fontFamily: Open Sans
+    fontSizeValue:
+      inputValue: 11
+      mostRecentInputValue: 11
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w500
+  bodyLarge:
+    fontFamily: Open Sans
+    fontSizeValue:
+      inputValue: 16
+      mostRecentInputValue: 16
+    colorValue:
+      inputValue:
+        themeColor: PRIMARY_TEXT
+      mostRecentInputValue:
+        themeColor: PRIMARY_TEXT
+    fontWeightValue:
+      inputValue: w400
+breakPoints:
+  small: 479
+  medium: 767
+  large: 991

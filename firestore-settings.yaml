@@ -1,0 +1,41 @@
+rules:
+  collectionRules:
+    hnd2mrig:
+      creat:
+        everyone: {}
+      read:
+        everyone: {}
+      update:
+        everyone: {}
+      delete:
+        everyone: {}
+      isPublic: true
+    te6iud20:
+      creat:
+        everyone: {}
+      read:
+        everyone: {}
+      update:
+        everyone: {}
+      delete:
+        everyone: {}
+      isPublic: true
+    j8hx0cxt:
+      creat:
+        everyone: {}
+      read:
+        everyone: {}
+      update:
+        everyone: {}
+      delete:
+        everyone: {}
+      isPublic: true
+  usersCollectionReadVisibility: READ_VISIBILITY_SELF
+validation:
+  lastValidatedCollectionHash:
+    brand: "51621255"
+    product: "38341901"
+    bestsellersproduct: "196226401"
+    hnd2mrig: "51621255"
+    te6iud20: "38341901"
+    j8hx0cxt: "196226401"

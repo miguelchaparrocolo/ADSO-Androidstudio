@@ -1,0 +1,11 @@
+firebase: {}
+firebaseConfigFileInfos:
+  - androidPath: users/9hnxOfFbRLQzWpwIziBu4DXOjeC3/projects/shop-app-gbzhyj/configs/405ywfvzzdqe/google-services.json
+    iosPath: users/9hnxOfFbRLQzWpwIziBu4DXOjeC3/projects/shop-app-gbzhyj/configs/w5n3cxerekk3/GoogleService-Info.plist
+    webConfig: "\/\/ Copy and paste this into your JavaScript code to initialize the Firebase SDK.\n\/\/ You will also need to load the Firebase SDK.\n\/\/ See https:\/\/firebase.google.com\/docs\/web\/setup for more details.\n\nfirebase.initializeApp({\n  \"projectId\": \"shopapp-f7ade\",\n  \"appId\": \"1:833133110709:web:83fe0f075585526ed125fc\",\n  \"storageBucket\": \"shopapp-f7ade.appspot.com\",\n  \"apiKey\": \"AIzaSyCqtcz71STCfBWmVtYqRsYj2lFy_MB7lXw\",\n  \"authDomain\": \"shopapp-f7ade.firebaseapp.com\",\n  \"messagingSenderId\": \"833133110709\",\n  \"measurementId\": \"G-8YS260GRFP\"\n});\n"
+    androidPackageNames:
+      - com.mycompany.shopapp
+    iosBundleId: com.mycompany.shopapp
+    environment:
+      name: Production
+      key: PROD

@@ -1,0 +1,66 @@
+fields:
+  - parameter:
+      identifier:
+        name: favorite
+        key: dwf0r2aw
+      dataType:
+        listType:
+          scalarType: DocumentReference
+        subType:
+          collectionIdentifier:
+            name: product
+            key: te6iud20
+    persisted: true
+  - parameter:
+      identifier:
+        name: cart
+        key: jx4qohzw
+      dataType:
+        listType:
+          scalarType: DocumentReference
+        subType:
+          collectionIdentifier:
+            name: product
+            key: te6iud20
+    persisted: true
+  - parameter:
+      identifier:
+        name: cartsum
+        key: q15zojpj
+      dataType:
+        scalarType: Double
+        subType:
+          collectionIdentifier: {}
+    persisted: true
+    serializedDefaultValue:
+      - "0"
+  - parameter:
+      identifier:
+        name: size
+        key: aib4ywb6
+      dataType:
+        scalarType: Integer
+        subType:
+          collectionIdentifier: {}
+    persisted: false
+    serializedDefaultValue:
+      - "0"
+  - parameter:
+      identifier:
+        name: color
+        key: 4t21orhm
+      dataType:
+        scalarType: String
+        subType:
+          collectionIdentifier: {}
+    persisted: true
+  - parameter:
+      identifier:
+        name: searchonof
+        key: b0zwm9c7
+      dataType:
+        scalarType: Boolean
+        subType:
+          collectionIdentifier: {}
+    persisted: false
+securePersistedValues: true

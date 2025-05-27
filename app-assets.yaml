@@ -1,0 +1,7 @@
+splashImage:
+  fit: FF_BOX_FIT_COVER
+  dimensions:
+    width: {}
+    height: {}
+  backgroundColor:
+    value: "0"
